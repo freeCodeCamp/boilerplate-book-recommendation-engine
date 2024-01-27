@@ -1,0 +1,31 @@
+repo_name: freeCodeCamp/boilerplate-book-recommendation-engine
+report_id: daf669fd16b53678fe405986d82f9b9a
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-27T03:51:13+00:00'
+requested_by: naomi-lgbt
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/freeCodeCamp/boilerplate-book-recommendation-engine
+  detection_source: Repo Metadata
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/freeCodeCamp/boilerplate-book-recommendation-engine
+  detection_source: Repo Metadata
